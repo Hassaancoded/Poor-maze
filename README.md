@@ -1,1 +1,1 @@
-# Hassaan-maze
+# CMH-maze
