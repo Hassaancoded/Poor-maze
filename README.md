@@ -1,1 +1,1 @@
-# CMH-maze
+# Poor-maze
