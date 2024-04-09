@@ -53,38 +53,5 @@ int main()
 		if (decision2 == 'y' || decision2 =='Y')
 		goto beginning;
 		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+
 }
